@@ -1,0 +1,1 @@
+enum NotifierType { normal, external }
