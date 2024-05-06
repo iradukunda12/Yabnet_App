@@ -1,12 +1,5 @@
 # Yabnet App [IOS||ANDROID]
 
-Yabnet provides a space for like-minded individuals to connect.
-
-## AIM & OBJECTIVE
-The aim of Yabnet is to facilitate connections among individuals in Zambia, 
-providing a platform for networking and engagement similar to LinkedIn.
-
-
 ## FEATURES
 
 ● Account Creation & Sign-In:Users can easily create accounts and sign in to access the platform.
@@ -17,6 +10,3 @@ providing a platform for networking and engagement similar to LinkedIn.
 ● Mentions: Users can mention other users in their posts, increasing engagement and facilitating communication.
 
 
-
-## DEVELOPER
-Yabnet is developed by YourDevAji (YDA), a software development company dedicated to creating innovative solutions.
